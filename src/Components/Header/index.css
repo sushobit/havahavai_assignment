@@ -1,0 +1,15 @@
+/* Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #ffffff;
+  }
+  
+  .profile-pic img {
+    width: max-content;
+    height: 110px;
+    border-radius: 50%;
+    
+  }
+  
